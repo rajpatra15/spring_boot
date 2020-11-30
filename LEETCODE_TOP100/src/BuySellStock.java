@@ -29,8 +29,7 @@ public class BuySellStock {
         int profit = prices[1] - prices[0];
         int min = prices[0];
         
-        //cdjdjdjdhkdhkjdh
-        
+        //cdjdjdjdhkdhkjdhmdkdkkdkd
         for(int i=1;i<prices.length;i++){
             
             if(prices[i] - min > profit)   profit = prices[i] - min;
